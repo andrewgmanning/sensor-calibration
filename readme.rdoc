@@ -1,0 +1,5 @@
+Python script to calibrate temperature sensors being read by a 
+Lake Shore 336/340 or Oxford Instruments Mercury iTC temperature controller.
+
+One sensor is designated as the calibrated (i.e. "perfectly accurate") sensor
+and other sensors are compared to it.
